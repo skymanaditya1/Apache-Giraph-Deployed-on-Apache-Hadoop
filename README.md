@@ -11,5 +11,5 @@ graph files downloaded from SNAP were in the Simple Edge List Format.
 
 #Solution : Wrote an algorithm that converts the input file in the simple edge list format to the JSON LongDoubleFloatDoubleVertexInputFormat.
 
-#Result : Ran the Single Source Shortest Path and Page Rank Algorithsm (inbuilt with Apache Giraph) and also wrote Vertex Count and 
+#Result : Ran the Single Source Shortest Path and Page Rank Algorithms (inbuilt with Apache Giraph) and also wrote Vertex Count and 
 Edge Count (wrote our own algorithm) on the same. 
